@@ -6,5 +6,5 @@ Este es el repositorio público para la materia **Sintaxis y Semántica de los L
 ## Información del Autor
 
 - **Nombre**: Andrea Marzetti
-- **Email**: [tu_email@frba.com](amarzetti@frba.utn.edu.ar)
+- **Email**: [amarzetti@frba.utn.edu.ar]
 - **Github**: [andreamarzetti](https://github.com/andreamarzetti)
